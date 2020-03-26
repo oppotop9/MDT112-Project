@@ -22,5 +22,4 @@
 ### Manipulation
 - Touch Screen Display
 ### Flowchart
-![alt text For Logo 1][flowchart]
-[flowchart]: https://github.com/oppotop9/MDT112-Project/blob/master/images/Flowchart.svg
+![alt text](https://github.com/oppotop9/MDT112-Project/blob/master/images/Flowchart.svg "Logo Title Text")
