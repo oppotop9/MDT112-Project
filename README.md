@@ -21,3 +21,6 @@
 3. แสดงรูปเเกน x,y,z เป็นแกน3D
 ### Manipulation
 - Touch Screen Display
+### Flowchart
+![alt text For Logo 1][flowchart]
+[flowchart]: https://github.com/oppotop9/MDT112-Project/blob/master/images/Flowchart.svg
